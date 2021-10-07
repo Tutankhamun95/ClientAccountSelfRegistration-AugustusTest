@@ -1,5 +1,10 @@
 # ClientAccountSelfRegistration-AugustusTest
 
+## IMPORTANT NOTES
+# Test was run on WAMP Server
+# Google Maps Api is used in the .env
+# If API Registeration fails, register through the browser
+
 These are the Project Files
 
 Tasks Accomplished:
