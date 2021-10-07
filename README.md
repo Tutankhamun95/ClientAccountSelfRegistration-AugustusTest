@@ -2,8 +2,8 @@
 
 ## IMPORTANT NOTES
 # Test was run on WAMP Server
-# Google Maps Api is used in the .env
-# If API Registeration fails, register through the browser
+# Google Maps Api Key is used in the .env
+# If API Registeration fails, register through the browser on http://localhost/register
 
 These are the Project Files
 
@@ -11,9 +11,9 @@ Tasks Accomplished:
 
 "GOAL" achieved as "two endpoints" have been created to retrieve a JSON response through the API.
 
-To retrieve All Registered Users: http://127.0.0.1:8000/api/user (Retrieves the table user only)
+To retrieve All Registered Users: http://localhost/public/api/user (Retrieves the table user only)
 
-To retrieve All Registered Clients: http://127.0.0.1:8000/api/client (Retrieves the table client & users joined on client_id and user_id)
+To retrieve All Registered Clients: http://localhost/public/api/client (Retrieves the table client & users joined on client_id and user_id)
 
 ## POST Regsiter Tasks
 
